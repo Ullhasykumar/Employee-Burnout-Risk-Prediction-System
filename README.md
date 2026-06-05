@@ -55,12 +55,16 @@ Using the trained model, simulated three "What-If" business scenarios to provide
 3. **Run the Jupyter Notebook or the Python file:**
    Jupyter Notebook : Open notebooks/Employee-Burnout-Risk-Prediction-System.ipynb and run the cells.
    Python file : Open src/Employee-Burnout-Risk-Prediction-System.py and run the program.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**## Let's Connect!!**
 
-**## Let's Connect!**
 **Thank you for taking the time to check out my repository. This marks my first foray into the world of Machine Learning!**
 
 **I am highly receptive to constructive feedback. If you spot any areas for improvement or just want to chat about data science, please feel free to correct me** **or drop a message. I'd love to connect with like-minded individuals!**
 
 📫 **To contact me: checkout my github userpage** 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
    

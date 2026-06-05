@@ -54,9 +54,9 @@ Using the trained model, simulated three "What-If" business scenarios to provide
 
 3. **Run the Jupyter Notebook or the Python file:**
    
-   Jupyter Notebook : Open notebooks/Employee-Burnout-Risk-Prediction-System.ipynb and run the cells.
+   Jupyter Notebook : Open `notebooks/Employee-Burnout-Risk-Prediction-System.ipynb` and run the cells.
    
-   Python file : Open src/Employee-Burnout-Risk-Prediction-System.py and run the program.
+   Python file : Open `src/Employee-Burnout-Risk-Prediction-System.py` and run the program.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 

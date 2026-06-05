@@ -24,7 +24,7 @@ plt.rcParams['figure.figsize'] = (10, 6)
 
 # 1. Dataset overview & Data type inspection
 print("Loading dataset...")
-df = pd.read_csv('/employee_burnout_dataset_1000_records.csv')
+df = pd.read_csv('/Data/employee_burnout_dataset_1000_records.csv')
 print("\n--- Dataset Info ---")
 display(df.info())
 
